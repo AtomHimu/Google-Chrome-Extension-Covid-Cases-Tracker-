@@ -1,0 +1,12 @@
+{
+    "name":"Covid cases Tracker",
+    "version":"1.0",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"index.html",
+        "default_icon":"coronavirus.png"
+    },"icons":{
+        "128":"coronavirus.png"
+    },
+    "permissions":["activeTab"]
+}
